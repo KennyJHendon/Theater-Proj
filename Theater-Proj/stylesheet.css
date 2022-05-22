@@ -1,0 +1,157 @@
+
+/*{ border: dashed red 1px;
+}*/
+
+.heading-image-container {
+   
+    width:100%;
+    padding-bottom: 30px;
+    position: relative;
+
+
+}
+
+
+
+   
+  
+ 
+
+
+
+.menu-headers {
+    
+     
+    color: whitesmoke;
+    position: absolute;
+    top: 16px;
+    left: 10px;
+    width: 90%;
+    position: absolute;
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-end;
+}
+
+.menuitem {
+    color: whitesmoke;
+    padding-right: 20px;
+    padding-left: 20px;;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    
+    
+}
+
+.Griot-Theater-title {
+    color: whitesmoke;
+
+    padding-left: 50px;
+
+    position: absolute;
+
+    top: 0px;
+
+    font-family: 'Roboto Slab', serif;
+
+   
+
+}
+
+
+
+  
+
+ 
+
+
+.theater-shows-heading-text {
+    position: absolute;
+    margin:auto;
+    color: whitesmoke;
+    font-size: 60pt;
+    text-align: center;
+    top: 5%;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+}
+
+.flexbox-container {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+    padding-top: 30px;
+    width: 100%;
+
+}
+
+.inner-flex-item {
+    
+  display:flex;
+  flex-direction: row;
+  align-items:center;
+  justify-content: space-between;
+  width: 80%;
+  height: 350px;
+  border: 1px solid gray;
+  border-right: none;
+  border-left: none;
+  font-family: 'Roboto Slab', serif;
+
+ 
+    
+  
+    
+}
+
+
+
+.datebox {
+    border: 1px solid rgb(103, 100, 100);
+    background-color: rgb(194, 194, 194);
+    width: 80%;
+    display: flex;
+    align-items: center;
+    height: 35px;
+    font-family: 'Roboto Slab', serif;
+    text-align: left;
+    text-indent: 40px;
+    margin: auto;
+   
+    
+    
+}
+
+.showtime-image {
+    padding: 15px;
+    padding-bottom: 15px;
+}
+
+
+.read-more-button {
+    width: 140px;
+    height: 40px;
+    font-family: 'Roboto Slab', serif;
+    font-size: medium;
+    background-color: rgb(225, 165, 15);
+    color: whitesmoke;
+    
+   
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: 'Roboto Slab', serif;
+    width:100%;
+    background-color: black;
+    color: whitesmoke;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
